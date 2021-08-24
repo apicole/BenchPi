@@ -1,4 +1,4 @@
-BenchPi.py
+BenchPi.py<br><br><br>
 <br>
 Benchmark your pi and compare it's CPU power with your other devices.. <br><br>
 This script uses imagemagic to create and rotate pitcures, add a frame and so on, loading the CPU.<br><br>
