@@ -7,8 +7,8 @@ You can change the Sequential&nbsp;Multithread* by (un)commenting line 22 / 23 b
 Usage : <br>
  >  nano BenchPi.py<br>
     - Adjust quantity and size of images to manipulate<br>
- > python3 BenchPi.py<br>
- >  - Run the Benchmark<br>
+ >  python3 BenchPi.py<br>
+    - Run the Benchmark<br>
 
 <br><br><br>
 For instance,  here is a basic comparison between a pi0 or a pi3b+, being the time for overall calculation<br><br><br>
