@@ -1,20 +1,20 @@
 BenchPi.py<br><br>
 Benchmark your pi and compare it's CPU power with your other devices.. <br><br>
 This script uses imagemagic to create and rotate pitcures, add a frame and so on, loading the CPU.<br><br>
-You can change the Sequential&nbsp;Multithread* by (un)commenting line 22 / 23 basically adding " &" at the end to run the shell command without waiting for a result.<br>
+You can adjust the picture quality, quantity enable verbose details, and check the the result of sequential/multithread shell commands by either setting script options or  specifying arguments during command line .<br>
 <br>
 Download : <br>
->  <b>git clone https://github.com/apicole/BenchPi; cd BenchPi</b><br>
+>  <b>git clone https://github.com/apicole/BenchPi; cd BenchPi;</b><br>
 
 Usage : <br>
  >  <b>nano BenchPi.py</b><br>
-    * Adjust quantity and quality of images to manipulate
+    * Adjust quantity and quality of images to manipulate on lines 4-5-6-7
  
  >  <b>python3 BenchPi.py</b><br>
-    * Run the Benchmark with 'default' parameters
+    * Run the Benchmark with 'default' parameters previously set
 
  >  <b>python3 BenchPi.py 1 5 m</b><br>
-    * Run the Benchmark with cmd line arguments
+    * Run the Benchmark with command line arguments :
 
     - 1 = verbose (0/1)
     - 5 = quantity of images to process
