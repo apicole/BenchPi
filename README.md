@@ -3,7 +3,10 @@ Benchmark your pi and compare it's CPU power with your other devices.. <br><br>
 This script uses imagemagic to create and rotate pitcures, add a frame and so on, loading the CPU.<br><br>
 You can adjust the picture quality, quantity enable verbose details, and check the the result of sequential/multithread shell commands by either setting script options or  specifying arguments during command line .<br>
 <br>
-Download : <br>
+Prerequisite : install ImageMagick :<br>
+>  <b>sudo apt install imagemagick</b><br>
+
+Download BenchPi.py: <br>
 >  <b>git clone https://github.com/apicole/BenchPi; cd BenchPi;</b><br>
 
 Usage : <br>
