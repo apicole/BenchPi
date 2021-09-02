@@ -4,7 +4,7 @@ This script uses imagemagic to create and rotate pitcures, add a frame and so on
 You can change the Sequential&nbsp;Multithread* by (un)commenting line 22 / 23 basically adding " &" at the end to run the shell command without waiting for a result.<br>
 <br>
 Download : <br>
->  <b>git clone https://github.com/apicole/BenchPi</b><br>
+>  <b>git clone https://github.com/apicole/BenchPi;cd BenchPi</b><br>
 
 Usage : <br>
  >  <b>nano BenchPi.py</b><br>
