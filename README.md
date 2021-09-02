@@ -2,13 +2,13 @@ BenchPi.py<br><br><br>
 <br>
 Benchmark your pi and compare it's CPU power with your other devices.. <br><br>
 This script uses imagemagic to create and rotate pitcures, add a frame and so on, loading the CPU.<br><br>
-You can change the Sequential&nbsp;Multithread* by (un)commenting line 22 / 23 basically adding " &" at the end to run the shell command without waiting for a result.
-
-Usage : 
- >  nano BenchPi.py
-    - Adjust quantity and size of images to manipulate
- > python3 BenchPi.py 
- >  - Run the Benchmark
+You can change the Sequential&nbsp;Multithread* by (un)commenting line 22 / 23 basically adding " &" at the end to run the shell command without waiting for a result.<br>
+<br>
+Usage : <br>
+ >  nano BenchPi.py<br>
+    - Adjust quantity and size of images to manipulate<br>
+ > python3 BenchPi.py<br>
+ >  - Run the Benchmark<br>
 
 <br><br><br>
 For instance,  here is a basic comparison between a pi0 or a pi3b+, being the time for overall calculation<br><br><br>
