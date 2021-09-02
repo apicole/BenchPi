@@ -6,7 +6,7 @@ from datetime import datetime
 
 # OPTIONS : number and size of pictures to be resized 
 number = 4
-size = "l"   # s / m / l
+size = "m"   # s / m / l
 
 def cleanup():
         for image in range(1,number+2):
