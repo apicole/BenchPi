@@ -8,18 +8,17 @@ Download : <br>
 
 Usage : <br>
  >  <b>nano BenchPi.py</b><br>
- 
     * Adjust quantity and quality of images to manipulate
- >  <b>python3 BenchPi.py</b><br><br>
  
+ >  <b>python3 BenchPi.py</b><br>
     * Run the Benchmark with 'default' parameters
+
  >  <b>python3 BenchPi.py 1 5 m</b><br>
- 
     * Run the Benchmark with cmd line arguments
- 
-    - 1 = verbose (0/1)<br>
-    - 5 = quantity of images to process<br>
-    - m = quality of images to process<br>
+
+    - 1 = verbose (0/1)
+    - 5 = quantity of images to process
+    - m = quality of images to process
     
 <br>
 Here is a basic comparison between a pi0 or a pi3b+, being the time for overall calculation<br><br><br>
